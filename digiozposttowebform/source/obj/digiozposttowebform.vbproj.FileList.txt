@@ -1,0 +1,9 @@
+bin\Release\digiozposttowebform.dll
+bin\Release\digiozposttowebform.pdb
+bin\Release\digiozposttowebform.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\digioz.Resources.resources
+obj\Release\digiozposttowebform.vbproj.GenerateResource.Cache
+obj\Release\digiozposttowebform.dll
+obj\Release\digiozposttowebform.xml
+obj\Release\digiozposttowebform.pdb

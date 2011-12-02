@@ -1,0 +1,9 @@
+bin\Release\digiozmysqldll.dll
+bin\Release\digiozmysqldll.pdb
+bin\Release\digiozmysqldll.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\digiozmysqldll.Resources.resources
+obj\Release\digiozmysqldll.vbproj.GenerateResource.Cache
+obj\Release\digiozmysqldll.dll
+obj\Release\digiozmysqldll.xml
+obj\Release\digiozmysqldll.pdb

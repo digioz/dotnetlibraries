@@ -1,0 +1,12 @@
+C:\_Projects\digioz\digioz.file.search\demo\bin\Debug\digioz.file.search_demo.exe
+C:\_Projects\digioz\digioz.file.search\demo\bin\Debug\digioz.file.search_demo.pdb
+C:\_Projects\digioz\digioz.file.search\demo\bin\Debug\digioz.file.xml
+C:\_Projects\digioz\digioz.file.search\demo\bin\Debug\digioz.file.search.dll
+C:\_Projects\digioz\digioz.file.search\demo\bin\Debug\digioz.file.search.pdb
+C:\_Projects\digioz\digioz.file.search\demo\obj\Debug\ResolveAssemblyReference.cache
+C:\_Projects\digioz\digioz.file.search\demo\obj\Debug\digioz.file.search_demo.Form1.resources
+C:\_Projects\digioz\digioz.file.search\demo\obj\Debug\digioz.file.search_demo.Resources.resources
+C:\_Projects\digioz\digioz.file.search\demo\obj\Debug\digioz.file.search_demo.vbproj.GenerateResource.Cache
+C:\_Projects\digioz\digioz.file.search\demo\obj\Debug\digioz.file.search_demo.exe
+C:\_Projects\digioz\digioz.file.search\demo\obj\Debug\digioz.file.xml
+C:\_Projects\digioz\digioz.file.search\demo\obj\Debug\digioz.file.search_demo.pdb

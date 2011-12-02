@@ -1,0 +1,109 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+digioz.google
+</name>
+</assembly>
+<members>
+<member name="M:digioz.google.com.google.api.GoogleSearchService.#ctor">
+	<remarks/>
+</member><member name="E:digioz.google.com.google.api.GoogleSearchService.doGetCachedPageCompleted">
+	<remarks/>
+</member><member name="E:digioz.google.com.google.api.GoogleSearchService.doSpellingSuggestionCompleted">
+	<remarks/>
+</member><member name="E:digioz.google.com.google.api.GoogleSearchService.doGoogleSearchCompleted">
+	<remarks/>
+</member><member name="M:digioz.google.com.google.api.GoogleSearchService.doGetCachedPage(System.String,System.String)">
+	<remarks/>
+</member><member name="M:digioz.google.com.google.api.GoogleSearchService.doGetCachedPageAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:digioz.google.com.google.api.GoogleSearchService.doGetCachedPageAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:digioz.google.com.google.api.GoogleSearchService.doSpellingSuggestion(System.String,System.String)">
+	<remarks/>
+</member><member name="M:digioz.google.com.google.api.GoogleSearchService.doSpellingSuggestionAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:digioz.google.com.google.api.GoogleSearchService.doSpellingSuggestionAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:digioz.google.com.google.api.GoogleSearchService.doGoogleSearch(System.String,System.String,System.Int32,System.Int32,System.Boolean,System.String,System.Boolean,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:digioz.google.com.google.api.GoogleSearchService.doGoogleSearchAsync(System.String,System.String,System.Int32,System.Int32,System.Boolean,System.String,System.Boolean,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:digioz.google.com.google.api.GoogleSearchService.doGoogleSearchAsync(System.String,System.String,System.Int32,System.Int32,System.Boolean,System.String,System.Boolean,System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:digioz.google.com.google.api.GoogleSearchService.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:digioz.google.com.google.api.GoogleSearchService">
+	<remarks/>
+</member><member name="P:digioz.google.com.google.api.GoogleSearchResult.documentFiltering">
+	<remarks/>
+</member><member name="P:digioz.google.com.google.api.GoogleSearchResult.searchComments">
+	<remarks/>
+</member><member name="P:digioz.google.com.google.api.GoogleSearchResult.estimatedTotalResultsCount">
+	<remarks/>
+</member><member name="P:digioz.google.com.google.api.GoogleSearchResult.estimateIsExact">
+	<remarks/>
+</member><member name="P:digioz.google.com.google.api.GoogleSearchResult.resultElements">
+	<remarks/>
+</member><member name="P:digioz.google.com.google.api.GoogleSearchResult.searchQuery">
+	<remarks/>
+</member><member name="P:digioz.google.com.google.api.GoogleSearchResult.startIndex">
+	<remarks/>
+</member><member name="P:digioz.google.com.google.api.GoogleSearchResult.endIndex">
+	<remarks/>
+</member><member name="P:digioz.google.com.google.api.GoogleSearchResult.searchTips">
+	<remarks/>
+</member><member name="P:digioz.google.com.google.api.GoogleSearchResult.directoryCategories">
+	<remarks/>
+</member><member name="P:digioz.google.com.google.api.GoogleSearchResult.searchTime">
+	<remarks/>
+</member><member name="T:digioz.google.com.google.api.GoogleSearchResult">
+	<remarks/>
+</member><member name="P:digioz.google.com.google.api.ResultElement.summary">
+	<remarks/>
+</member><member name="P:digioz.google.com.google.api.ResultElement.URL">
+	<remarks/>
+</member><member name="P:digioz.google.com.google.api.ResultElement.snippet">
+	<remarks/>
+</member><member name="P:digioz.google.com.google.api.ResultElement.title">
+	<remarks/>
+</member><member name="P:digioz.google.com.google.api.ResultElement.cachedSize">
+	<remarks/>
+</member><member name="P:digioz.google.com.google.api.ResultElement.relatedInformationPresent">
+	<remarks/>
+</member><member name="P:digioz.google.com.google.api.ResultElement.hostName">
+	<remarks/>
+</member><member name="P:digioz.google.com.google.api.ResultElement.directoryCategory">
+	<remarks/>
+</member><member name="P:digioz.google.com.google.api.ResultElement.directoryTitle">
+	<remarks/>
+</member><member name="T:digioz.google.com.google.api.ResultElement">
+	<remarks/>
+</member><member name="P:digioz.google.com.google.api.DirectoryCategory.fullViewableName">
+	<remarks/>
+</member><member name="P:digioz.google.com.google.api.DirectoryCategory.specialEncoding">
+	<remarks/>
+</member><member name="T:digioz.google.com.google.api.DirectoryCategory">
+	<remarks/>
+</member><member name="T:digioz.google.com.google.api.doGetCachedPageCompletedEventHandler">
+	<remarks/>
+</member><member name="P:digioz.google.com.google.api.doGetCachedPageCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:digioz.google.com.google.api.doGetCachedPageCompletedEventArgs">
+	<remarks/>
+</member><member name="T:digioz.google.com.google.api.doSpellingSuggestionCompletedEventHandler">
+	<remarks/>
+</member><member name="P:digioz.google.com.google.api.doSpellingSuggestionCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:digioz.google.com.google.api.doSpellingSuggestionCompletedEventArgs">
+	<remarks/>
+</member><member name="T:digioz.google.com.google.api.doGoogleSearchCompletedEventHandler">
+	<remarks/>
+</member><member name="P:digioz.google.com.google.api.doGoogleSearchCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:digioz.google.com.google.api.doGoogleSearchCompletedEventArgs">
+	<remarks/>
+</member>
+</members>
+</doc>

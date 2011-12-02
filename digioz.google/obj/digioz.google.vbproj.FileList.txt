@@ -1,0 +1,12 @@
+bin\Release\digioz.google.dll.config
+bin\Release\digioz.google.dll
+bin\Release\digioz.google.XmlSerializers.dll
+bin\Release\digioz.google.pdb
+bin\Release\digioz.google.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\digioz.google.Resources.resources
+obj\Release\digioz.google.vbproj.GenerateResource.Cache
+obj\Release\digioz.google.dll
+obj\Release\digioz.google.xml
+obj\Release\digioz.google.pdb
+obj\Release\digioz.google.XmlSerializers.dll

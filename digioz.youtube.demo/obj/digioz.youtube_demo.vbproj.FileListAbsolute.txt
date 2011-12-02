@@ -1,0 +1,11 @@
+C:\_Projects\digioz\digioz.youtube\demo\digioz.youtube_demo\bin\Debug\digioz.youtube_demo.exe
+C:\_Projects\digioz\digioz.youtube\demo\digioz.youtube_demo\bin\Debug\digioz.youtube_demo.pdb
+C:\_Projects\digioz\digioz.youtube\demo\digioz.youtube_demo\bin\Debug\digioz.youtube_demo.xml
+C:\_Projects\digioz\digioz.youtube\demo\digioz.youtube_demo\bin\Debug\digioz.youtube.dll
+C:\_Projects\digioz\digioz.youtube\demo\digioz.youtube_demo\obj\Debug\ResolveAssemblyReference.cache
+C:\_Projects\digioz\digioz.youtube\demo\digioz.youtube_demo\obj\Debug\digioz.youtube_demo.Form1.resources
+C:\_Projects\digioz\digioz.youtube\demo\digioz.youtube_demo\obj\Debug\digioz.youtube_demo.Resources.resources
+C:\_Projects\digioz\digioz.youtube\demo\digioz.youtube_demo\obj\Debug\digioz.youtube_demo.vbproj.GenerateResource.Cache
+C:\_Projects\digioz\digioz.youtube\demo\digioz.youtube_demo\obj\Debug\digioz.youtube_demo.exe
+C:\_Projects\digioz\digioz.youtube\demo\digioz.youtube_demo\obj\Debug\digioz.youtube_demo.xml
+C:\_Projects\digioz\digioz.youtube\demo\digioz.youtube_demo\obj\Debug\digioz.youtube_demo.pdb

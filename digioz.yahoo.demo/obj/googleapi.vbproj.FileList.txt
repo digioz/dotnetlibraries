@@ -1,0 +1,11 @@
+bin\Debug\googleapi.exe.config
+bin\Debug\googleapi.exe
+bin\Debug\googleapi.pdb
+bin\Debug\googleapi.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\googleapi.Form1.resources
+obj\Debug\googleapi.Resources.resources
+obj\Debug\googleapi.vbproj.GenerateResource.Cache
+obj\Debug\googleapi.exe
+obj\Debug\googleapi.xml
+obj\Debug\googleapi.pdb

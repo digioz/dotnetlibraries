@@ -1,0 +1,13 @@
+bin\Debug\digiozmysqldll_demo.exe
+bin\Debug\digiozmysqldll_demo.pdb
+bin\Debug\digiozmysqldll_demo.xml
+bin\Debug\digiozmysqldll.pdb
+bin\Debug\digiozmysqldll.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\digiozmysqldll_demo.Dialog1.resources
+obj\Debug\digiozmysqldll_demo.Form1.resources
+obj\Debug\digiozmysqldll_demo.Resources.resources
+obj\Debug\digiozmysqldll_demo.vbproj.GenerateResource.Cache
+obj\Debug\digiozmysqldll_demo.exe
+obj\Debug\digiozmysqldll_demo.xml
+obj\Debug\digiozmysqldll_demo.pdb

@@ -1,0 +1,9 @@
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\digioz.yahoo.Resources.resources
+obj\Release\digioz.yahoo.vbproj.GenerateResource.Cache
+bin\Release\digioz.yahoo.dll
+bin\Release\digioz.yahoo.pdb
+bin\Release\digioz.yahoo.xml
+obj\Release\digioz.yahoo.dll
+obj\Release\digioz.yahoo.xml
+obj\Release\digioz.yahoo.pdb

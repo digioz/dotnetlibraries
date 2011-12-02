@@ -1,0 +1,12 @@
+bin\Debug\Yahoo.API.dll
+bin\Debug\Yahoo.API.pdb
+bin\Debug\Yahoo.API.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Yahoo.API.dll
+obj\Debug\Yahoo.API.xml
+obj\Debug\Yahoo.API.pdb
+bin\Release\Yahoo.API.dll
+bin\Release\Yahoo.API.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Yahoo.API.dll
+obj\Release\Yahoo.API.xml

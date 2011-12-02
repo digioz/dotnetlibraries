@@ -1,0 +1,14 @@
+bin\Debug\digioz.google_demo.exe
+bin\Debug\digioz.google_demo.pdb
+bin\Debug\digioz.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\digioz.google_demo.Form1.resources
+obj\Debug\digioz.google_demo.Resources.resources
+obj\Debug\digioz.google_demo.vbproj.GenerateResource.Cache
+obj\Debug\digioz.google_demo.exe
+obj\Debug\digioz.xml
+obj\Debug\digioz.google_demo.pdb
+bin\Debug\digioz.google.dll
+bin\Debug\digioz.google.pdb
+bin\Debug\digioz.google.xml
+bin\Debug\digioz.google.XmlSerializers.dll

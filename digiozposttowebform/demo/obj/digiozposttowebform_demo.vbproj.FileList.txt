@@ -1,0 +1,12 @@
+bin\Debug\digiozposttowebform_demo.exe
+bin\Debug\digiozposttowebform_demo.pdb
+bin\Debug\digiozposttowebform_demo.xml
+bin\Debug\digiozposttowebform.dll
+bin\Debug\digiozposttowebform.pdb
+bin\Debug\digiozposttowebform.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\digiozposttowebform_demo.Resources.resources
+obj\Debug\digiozposttowebform_demo.vbproj.GenerateResource.Cache
+obj\Debug\digiozposttowebform_demo.exe
+obj\Debug\digiozposttowebform_demo.xml
+obj\Debug\digiozposttowebform_demo.pdb

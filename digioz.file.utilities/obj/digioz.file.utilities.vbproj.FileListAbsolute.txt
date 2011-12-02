@@ -1,0 +1,9 @@
+C:\_Projects\digioz\digioz.file.utilities\source\digioz.file.utilities\bin\Release\digioz.file.utilities.dll
+C:\_Projects\digioz\digioz.file.utilities\source\digioz.file.utilities\bin\Release\digioz.file.utilities.pdb
+C:\_Projects\digioz\digioz.file.utilities\source\digioz.file.utilities\bin\Release\digioz.file.utilities.xml
+C:\_Projects\digioz\digioz.file.utilities\source\digioz.file.utilities\obj\Release\ResolveAssemblyReference.cache
+C:\_Projects\digioz\digioz.file.utilities\source\digioz.file.utilities\obj\Release\digioz.file.utilities.Resources.resources
+C:\_Projects\digioz\digioz.file.utilities\source\digioz.file.utilities\obj\Release\digioz.file.utilities.vbproj.GenerateResource.Cache
+C:\_Projects\digioz\digioz.file.utilities\source\digioz.file.utilities\obj\Release\digioz.file.utilities.dll
+C:\_Projects\digioz\digioz.file.utilities\source\digioz.file.utilities\obj\Release\digioz.file.utilities.xml
+C:\_Projects\digioz\digioz.file.utilities\source\digioz.file.utilities\obj\Release\digioz.file.utilities.pdb

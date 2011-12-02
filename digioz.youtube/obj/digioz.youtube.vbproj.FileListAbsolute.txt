@@ -1,0 +1,9 @@
+C:\_Projects\digioz\digioz.youtube\source\digioz.youtube\bin\Release\digioz.youtube.dll
+C:\_Projects\digioz\digioz.youtube\source\digioz.youtube\bin\Release\digioz.youtube.pdb
+C:\_Projects\digioz\digioz.youtube\source\digioz.youtube\bin\Release\digioz.youtube.xml
+C:\_Projects\digioz\digioz.youtube\source\digioz.youtube\obj\Release\ResolveAssemblyReference.cache
+C:\_Projects\digioz\digioz.youtube\source\digioz.youtube\obj\Release\digioz.youtube.Resources.resources
+C:\_Projects\digioz\digioz.youtube\source\digioz.youtube\obj\Release\digioz.youtube.vbproj.GenerateResource.Cache
+C:\_Projects\digioz\digioz.youtube\source\digioz.youtube\obj\Release\digioz.youtube.dll
+C:\_Projects\digioz\digioz.youtube\source\digioz.youtube\obj\Release\digioz.youtube.xml
+C:\_Projects\digioz\digioz.youtube\source\digioz.youtube\obj\Release\digioz.youtube.pdb

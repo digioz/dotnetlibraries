@@ -1,0 +1,45 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+digioz.youtube
+</name>
+</assembly>
+<members>
+<member name="P:digioz.youtube.youtube.DevID">
+	<summary>
+ Property to sets the YouTube Developer ID 
+ for the class instance. If you do not have
+ one you can register for a new ID at: 
+ http://youtube.com/signup?next=/my_profile_dev
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:digioz.youtube.youtube.Tag">
+	<summary>
+ Property that sets the search Term for
+ our YouTube Search
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:digioz.youtube.youtube.Page">
+	<summary>
+ Property that specifies the page number for our 
+ search results that are returned
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:digioz.youtube.youtube.PerPage">
+	<summary>
+ Property that specifies how many search 
+ results per page are shown 
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
