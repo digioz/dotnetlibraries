@@ -21,7 +21,7 @@ Public Class digiozFileTrans
 
     ' ***************************** Write to Text File Function ********************************
 
-    Public Function SaveTextToFile(ByVal strData As String, ByVal FullPath As String, Optional ByVal ErrInfo As String = "") As Boolean
+    Public Function SaveTextToFile(ByVal strData As String, ByVal FullPath As String, Optional ByRef ErrInfo As String = "") As Boolean
 
         Dim Contents As String
         Dim bAns As Boolean = False
@@ -42,7 +42,7 @@ Public Class digiozFileTrans
 
     ' ****************** Append to Text File Function ***********************
 
-    Public Function AppendTextToFile(ByVal strData As String, ByVal path As String, Optional ByVal ErrInfo As String = "")
+    Public Function AppendTextToFile(ByVal strData As String, ByVal path As String, Optional ByRef ErrInfo As String = "")
         Dim sw As StreamWriter
 
         ' Create the file if it does not exist

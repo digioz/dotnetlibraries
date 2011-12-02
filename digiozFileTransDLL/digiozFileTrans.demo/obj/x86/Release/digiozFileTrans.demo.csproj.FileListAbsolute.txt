@@ -1,0 +1,11 @@
+C:\_Projects\digioz\dotnetlibraries\digiozFileTransDLL\digiozFileTrans.demo\bin\Release\digiozFileTrans.demo.exe
+C:\_Projects\digioz\dotnetlibraries\digiozFileTransDLL\digiozFileTrans.demo\bin\Release\digiozFileTrans.demo.pdb
+C:\_Projects\digioz\dotnetlibraries\digiozFileTransDLL\digiozFileTrans.demo\bin\Release\digiozFileTrans.dll
+C:\_Projects\digioz\dotnetlibraries\digiozFileTransDLL\digiozFileTrans.demo\bin\Release\digiozFileTrans.xml
+C:\_Projects\digioz\dotnetlibraries\digiozFileTransDLL\digiozFileTrans.demo\obj\x86\Release\ResolveAssemblyReference.cache
+C:\_Projects\digioz\dotnetlibraries\digiozFileTransDLL\digiozFileTrans.demo\obj\x86\Release\digiozFileTrans.demo.frmMain.resources
+C:\_Projects\digioz\dotnetlibraries\digiozFileTransDLL\digiozFileTrans.demo\obj\x86\Release\digiozFileTrans.demo.Properties.Resources.resources
+C:\_Projects\digioz\dotnetlibraries\digiozFileTransDLL\digiozFileTrans.demo\obj\x86\Release\GenerateResource.read.1.tlog
+C:\_Projects\digioz\dotnetlibraries\digiozFileTransDLL\digiozFileTrans.demo\obj\x86\Release\GenerateResource.write.1.tlog
+C:\_Projects\digioz\dotnetlibraries\digiozFileTransDLL\digiozFileTrans.demo\obj\x86\Release\digiozFileTrans.demo.exe
+C:\_Projects\digioz\dotnetlibraries\digiozFileTransDLL\digiozFileTrans.demo\obj\x86\Release\digiozFileTrans.demo.pdb

@@ -1,0 +1,7 @@
+C:\_Projects\digioz\dotnetlibraries\digiozFileTransDLL\bin\digiozFileTrans.dll
+C:\_Projects\digioz\dotnetlibraries\digiozFileTransDLL\bin\digiozFileTrans.pdb
+C:\_Projects\digioz\dotnetlibraries\digiozFileTransDLL\bin\digiozFileTrans.xml
+C:\_Projects\digioz\dotnetlibraries\digiozFileTransDLL\obj\Debug\ResolveAssemblyReference.cache
+C:\_Projects\digioz\dotnetlibraries\digiozFileTransDLL\obj\Debug\digiozFileTrans.dll
+C:\_Projects\digioz\dotnetlibraries\digiozFileTransDLL\obj\Debug\digiozFileTrans.xml
+C:\_Projects\digioz\dotnetlibraries\digiozFileTransDLL\obj\Debug\digiozFileTrans.pdb
