@@ -1,0 +1,4 @@
+C:\_Projects\digioz\dotnetlibraries\DigiOz DMS Converter\bin\Release\DMS_To_DD.exe
+C:\_Projects\digioz\dotnetlibraries\DigiOz DMS Converter\obj\Release\DMS_To_DD.frmMain.resources
+C:\_Projects\digioz\dotnetlibraries\DigiOz DMS Converter\obj\Release\DMS_To_DD.csproj.GenerateResource.Cache
+C:\_Projects\digioz\dotnetlibraries\DigiOz DMS Converter\obj\Release\DMS_To_DD.exe

@@ -1,0 +1,7 @@
+C:\_Projects\digioz\dotnetlibraries\DigiOz DMS Converter\obj\Debug\DMS_To_DD.exe
+C:\_Projects\digioz\dotnetlibraries\DigiOz DMS Converter\obj\Debug\DMS_To_DD.pdb
+C:\_Projects\digioz\dotnetlibraries\DigiOz DMS Converter\bin\Debug\DMS_To_DD.exe
+C:\_Projects\digioz\dotnetlibraries\DigiOz DMS Converter\bin\Debug\DMS_To_DD.pdb
+C:\_Projects\digioz\dotnetlibraries\DigiOz DMS Converter\obj\Debug\DMS_To_DD.csprojResolveAssemblyReference.cache
+C:\_Projects\digioz\dotnetlibraries\DigiOz DMS Converter\obj\Debug\DMS_To_DD.frmMain.resources
+C:\_Projects\digioz\dotnetlibraries\DigiOz DMS Converter\obj\Debug\DMS_To_DD.csproj.GenerateResource.Cache
