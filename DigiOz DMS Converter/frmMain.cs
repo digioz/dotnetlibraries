@@ -347,12 +347,9 @@ namespace DMS_To_DD
 				fMin,
 				fSec;
 
-			double dDeg,
-				   dMin,
-				   dSec,
-				   vDec;
+            double vDec = 0;
 
-			string vConv2;
+			string vConv2 = string.Empty;
 
 			// attempt to convert if valid data
 			try
@@ -367,9 +364,6 @@ namespace DMS_To_DD
 				fSec = Convert.ToInt32(Math.Ceiling(vDec * 60));
 				
 				txtOut2.Text = fDeg.ToString() + "D " + fMin.ToString() + "M " + fSec.ToString() + "S";
- 
-
-
 			}
 			catch
 			{
